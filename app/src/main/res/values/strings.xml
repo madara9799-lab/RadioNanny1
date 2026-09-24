@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Radio Nanny</string>
+    <string name="btn_start">Старт радио</string>
+    <string name="btn_stop">Стоп радио</string>
+    <string name="btn_camera">Включить камеру</string>
+    <string name="btn_send">Отправить в ТГ</string>
+</resources>
